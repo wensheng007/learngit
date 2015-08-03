@@ -5,3 +5,4 @@ Git tracks changes.
 Git push origin master successfully.
 Create a new branch is quick AND simple.
 add merge.
+Git stash.
